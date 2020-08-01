@@ -6,9 +6,9 @@ ROS Melodic Morenia, Released May, 2018, LTS, supported until May, 2023, Recomme
   goto http://wiki.ros.org/melodic/Installation/Ubuntu
 
 2. Update and upgrade system
-  $ sudo apt-get update
-  $ sudo apt autoremove
-  $ sudo apt upgrade
-  $ sudo reboot
+  $ sudo apt-get update;
+  $ sudo apt autoremove;
+  $ sudo apt upgrade;
+  $ sudo reboot.
 
 3. 
