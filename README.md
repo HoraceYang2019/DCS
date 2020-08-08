@@ -7,17 +7,17 @@ ROS Melodic Morenia, Released May, 2018, LTS, supported until May, 2023, Recomme
 
 2. Update and upgrade system
   $ sudo apt-get update;
-  $ sudo apt-get install ros-melodic-desktop
-  $ sudo rosdep init
-  $ rosdep upgdate
+  $ sudo apt-get install ros-melodic-desktop;
+  $ sudo rosdep init;
+  $ rosdep upgdate;
   $ sudo reboot.
 
 3. Access spyder
-  $ sudo apt-get install spyder3
+  $ sudo apt-get install spyder3;
 
 4. Run ROS
-  $ roscore
+  $ roscore;
   
 5. Test ROS
-  $ rosrun turlesim turlesim_node
-  $ rosrun turlesim turle_teleop_key
+  $ rosrun turlesim turlesim_node;
+  $ rosrun turlesim turle_teleop_key.
